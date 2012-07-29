@@ -1,0 +1,10 @@
+localization:
+  help_all: "/races list; /races select <раса>"
+  cmd_base_noallow: "Команда телепорта на базу запрещенна!"
+  cmd_base_success: "Добро пожаловать на базу!"
+  cmd_list: "Доступные расы: "
+  cmd_list_separator: "; "
+  cmd_select_norace: "Такой расы не существует!"
+  cmd_select_success: "Ваша новая раса: "
+  cmd_select_2ndrace: "Вы уже и так в расе: "
+  norace: "Выберите расу! (/races list и затем /races select <раса>"

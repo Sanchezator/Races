@@ -1,0 +1,11 @@
+name: Races
+main: com.github.sanchezator.Races.Races
+version: 0.1
+
+commands:
+   races:
+      description: Various commands for Races
+      usage: /<command> <arg>
+   base:
+      description: Teleports player to base if allowed
+      usage: /base
